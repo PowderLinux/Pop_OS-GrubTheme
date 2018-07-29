@@ -16,9 +16,9 @@ Copy Pop_OS-GrubTheme folder to /boot/grub/themes >
 (use 'sudo nautilus /boot/grub' to be able to use copy/paste in /boot)
 (use 'sudo mkdir /boot/grub/themes' if you dont have a 'themes' folder)
 
-Add the following line to /etc/default/grub >  
+Add the following line to /etc/default/grub > 
+(use 'sudo gedit /etc/default/grub') 
 GRUB_THEME="/boot/grub/themes/Pop_OS-GrubTheme/theme.txt"
-(use 'sudo gedit /etc/default/grub')
 
 Update your grub.cfg >
 (use 'sudo update-grub')
