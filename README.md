@@ -1,5 +1,5 @@
 # Pop_OS-GrubTheme
-Pop_OS Grub2 Theme
+Pop_OS theme for Grub2 bootloader
 ____________________________________________________________________________
 
 Pop_OS theme for Grub2.
