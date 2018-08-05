@@ -38,7 +38,7 @@ Credits:
 
 Andrei Shevchuk (https://github.com/shvchk)
 I used his 'Poly-Light' grub theme as a template to make this theme.
-(copy of MIT License is included)
+(MIT License)
 
 Luis Felipe Sánchez (https://github.com/lfelipe1501)
 I used the icons from his 'Atomic-Theme' in this theme.
